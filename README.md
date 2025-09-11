@@ -3,7 +3,7 @@
 **React Developer · Next.js · TypeScript @ [Xedrum IT Company](https://xedrum.com)** ✨
 
 ## What's going on
-- 🤝 Highly interested in collaborating on React/Next.js projects with long-term period
+- 🤝 Highly interested in collaborating on React/Next.js projects with a long-term period
 - 💬 Ask me about React, Next.js, TypeScript, state management, performance optimization
 - 😅 Pronouns: he/him
 
