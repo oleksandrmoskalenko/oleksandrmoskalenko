@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Oleksandr
 
-**React Developer | Next.js · TypeScript @ [Xedrum IT Company](https://xedrum.com)** ✨
+**React Developer · Next.js · TypeScript @ [Xedrum IT Company](https://xedrum.com)** ✨
 
 ## What's going on
 - 🤝 Highly interested in collaborating on React/Next.js projects with long-term period
