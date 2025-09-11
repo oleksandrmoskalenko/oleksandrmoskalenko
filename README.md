@@ -3,14 +3,14 @@
 **React Developer | Next.js · TypeScript · JavaScript @ [Xedrum IT Company](https://xedrum.com)** ✨
 
 ## What's going on
-- �� Highly interested in collaborating on React/Next.js projects with long-term period
+- 🤝 Highly interested in collaborating on React/Next.js projects with long-term period
 - 💬 Ask me about React, Next.js, TypeScript, state management, performance optimization
 - 😅 Pronouns: he/him
 
-### My work so far
+## My work so far
 [![Oleksandr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oleksandrmoskalenko&show_icons=true&theme=dark)](https://github.com/oleksandrmoskalenko)
 
-### My languages and tools
+## My languages and tools
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" title="Next.js" />
@@ -31,5 +31,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" height="50" alt="Jira" title="Jira" />
 </div>
 
-### Things I enjoy to do besides coding
+## Things I enjoy to do besides coding
 reading 📚, learning new technologies 🚀, family time 👩‍👧‍👦
