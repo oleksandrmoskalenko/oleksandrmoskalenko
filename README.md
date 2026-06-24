@@ -8,7 +8,7 @@
 - 😅 Pronouns: he/him
 
 ## My work so far
-[![Oleksandr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oleksandrmoskalenko&show_icons=true&theme=dark)](https://github.com/oleksandrmoskalenko)
+[![Oleksandr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oleksandrmoskalenko&show_icons=true&theme=dark)](https://github.com/oleksandrmoskalenko) 
 
 ## My languages and tools
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
