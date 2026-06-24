@@ -1,16 +1,20 @@
 # Hi there 👋 I'm Oleksandr
 
-**React Developer · Next.js · TypeScript @ [Xedrum IT Company](https://xedrum.com)** ✨
+**Front-End Developer | React · Next.js · TypeScript | 3.5+ years of commercial experience**
 
-## What's going on
-- 🤝 Highly interested in collaborating on React/Next.js projects with a long-term period
-- 💬 Ask me about React, Next.js, TypeScript, state management, performance optimization
-- 😅 Pronouns: he/him
+Building scalable SaaS products, data-intensive dashboards, reusable UI components, and modern web applications.
 
-## My work so far
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oleksandrmoskalenko&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+## What I'm working with
 
-## My languages and tools
+- ⚛️ React, Next.js, TypeScript
+- 🧩 Design Systems & Component Libraries
+- 📊 Data-heavy dashboards & Admin Panels
+- 🚀 Performance Optimization & Core Web Vitals
+- 🔄 REST APIs, GraphQL, WebSockets & SSE
+- 🤝 Open to long-term React / Next.js opportunities
+
+## Tech Stack
+
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" title="Next.js" />
@@ -31,5 +35,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" height="50" alt="Jira" title="Jira" />
 </div>
 
-## Things I enjoy to do besides coding
-reading 📚, learning new technologies 🚀, family time 👩‍👧‍👦
+## Beyond coding
+
+📚 Reading
+🚀 Exploring new technologies
+⚽ Football
+👨‍👩‍👦 Family time
+
+## Currently
+
+- 💼 Front-End Developer @ Xedrum
+- 🌱 Learning React Native (Expo)
+- 🤖 Using AI tools to improve development workflows
+
+## Let's connect
+
+- 💼 **LinkedIn:** [linkedin.com/in/oleksandr-moskalenko](https://www.linkedin.com/in/oleksandr-moskalenko/)
+- 🌐 **Portfolio:** [Frontend Portfolio](https://drive.google.com/file/d/1d_ULQNETbDIwZRUjLyd42hYEX1_VnCAW/view?usp=sharing)
+- 📧 **Email:** [moskalenko.developer@gmail.com](mailto:moskalenko.developer@gmail.com)
+
+
+
