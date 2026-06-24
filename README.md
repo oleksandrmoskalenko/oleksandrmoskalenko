@@ -1,16 +1,18 @@
 # Hi there 👋 I'm Oleksandr
 
-**Front-End Developer | React · Next.js · TypeScript | 3.5+ years of commercial experience**
+Front-End Developer | React · Next.js · TypeScript
 
-Building scalable SaaS products, data-intensive dashboards, reusable UI components, and modern web applications.
+3.5+ years of commercial experience building modern web applications.
+
+Building scalable SaaS products, enterprise dashboards, reusable UI components, and high-performance web applications.
 
 ## What I'm working with
 
 - ⚛️ React, Next.js, TypeScript
-- 🧩 Design Systems & Component Libraries
-- 📊 Data-heavy dashboards & Admin Panels
-- 🚀 Performance Optimization & Core Web Vitals
 - 🔄 REST APIs, GraphQL, WebSockets & SSE
+- 📊 Data-heavy dashboards & Admin Panels
+- 🧩 Design Systems & Component Libraries
+- 🚀 Performance Optimization & Core Web Vitals
 - 🤝 Open to long-term React / Next.js opportunities
 
 ## Tech Stack
@@ -46,12 +48,12 @@ Building scalable SaaS products, data-intensive dashboards, reusable UI componen
 
 - 💼 Front-End Developer @ Xedrum
 - 🌱 Learning React Native (Expo)
-- 🤖 Using AI tools to improve development workflows
+- 🤖 Using Cursor, ChatGPT and Claude to improve development workflows
 
 ## Let's connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/oleksandr-moskalenko](https://www.linkedin.com/in/oleksandr-moskalenko/)
-- 🌐 **Portfolio:** [Frontend Portfolio](https://drive.google.com/file/d/1d_ULQNETbDIwZRUjLyd42hYEX1_VnCAW/view?usp=sharing)
+- 🌐 **Portfolio:** [Portfolio (PDF)](https://drive.google.com/file/d/1d_ULQNETbDIwZRUjLyd42hYEX1_VnCAW/view?usp=sharing)
 - 📧 **Email:** [moskalenko.developer@gmail.com](mailto:moskalenko.developer@gmail.com)
 
 
