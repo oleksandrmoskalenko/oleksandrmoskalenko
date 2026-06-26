@@ -6,6 +6,14 @@ Front-End Developer | React · Next.js · TypeScript
 
 Building scalable SaaS products, enterprise dashboards, reusable UI components, and high-performance web applications.
 
+### 🚀 Featured Engineering Case Studies (NDA Workarounds)
+
+Since my core enterprise projects are built under strict NDA, I have documented the architectural challenges, technical decisions, and clean-code patterns I engineered in a dedicated repository:
+
+👉 **[Read Production Case Studies Here](https://github.com)** — *Deep dive into Next.js 15, SSE data streaming, WebSocket synchronization, and Nx monorepo scaling.*
+
+---
+
 ## What I'm working with
 
 - ⚛️ React, Next.js, TypeScript
@@ -53,7 +61,7 @@ Building scalable SaaS products, enterprise dashboards, reusable UI components, 
 ## Let's connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/oleksandr-moskalenko](https://www.linkedin.com/in/oleksandr-moskalenko/)
-- 🌐 **Portfolio:** [Portfolio (PDF)](https://drive.google.com/file/d/1d_ULQNETbDIwZRUjLyd42hYEX1_VnCAW/view?usp=sharing)
+- 🌐 **GitHub Case Studies:** [Architecture & Engineering Patterns](./#-featured-engineering-case-studies-nda-workarounds)
 - 📧 **Email:** [moskalenko.developer@gmail.com](mailto:moskalenko.developer@gmail.com)
 
 
