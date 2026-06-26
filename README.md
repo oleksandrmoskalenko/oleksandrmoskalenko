@@ -61,7 +61,7 @@ Since my core enterprise projects are built under strict NDA, I have documented 
 ## Let's connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/oleksandr-moskalenko](https://www.linkedin.com/in/oleksandr-moskalenko/)
-- 🚀 **GitHub Case Studies:** [architecture-case-studies]([https://github.com](https://github.com/oleksandrmoskalenko/architecture-case-studies))
+- 🚀 **GitHub Case Studies:** [architecture-case-studies](https://github.com/oleksandrmoskalenko/architecture-case-studies)
 - 📧 **Email:** [moskalenko.developer@gmail.com](mailto:moskalenko.developer@gmail.com)
 
 
