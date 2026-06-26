@@ -10,7 +10,7 @@ Building scalable SaaS products, enterprise dashboards, reusable UI components, 
 
 Since my core enterprise projects are built under strict NDA, I have documented the architectural challenges, technical decisions, and clean-code patterns I engineered in a dedicated repository:
 
-👉 **[Read Production Case Studies Here]([https://github.com](https://github.com/oleksandrmoskalenko/architecture-case-studies)** — *Deep dive into Next.js 15, SSE data streaming, WebSocket synchronization, and Nx monorepo scaling.*
+👉 **[Read Production Case Studies Here](https://github.com/oleksandrmoskalenko/architecture-case-studies)** — *Deep dive into Next.js 15, SSE data streaming, WebSocket synchronization, and Nx monorepo scaling.*
 
 ---
 
